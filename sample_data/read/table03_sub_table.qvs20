@@ -1,0 +1,7 @@
+[T][table02][complex table with sub_table]
+[String][SubTable][String]
+[][1[vers][desc]1[String]1[]1[]1[ver]1][]
+[][][]
+[name][vers][desc]
+[name_1][1[1.0]1[1.1]1[2.1]1[2.2]1][desc_2]
+[name_3][1[1.0]1[1.1]1[2.1]1[2.2]1][desc_4]
