@@ -1,12 +1,10 @@
 [comment]: # (lmake_md_to_doc_comments segment start A)
 
-# QVS21 - Modern replacement for csv for the year 2021  
-
-sQuare brackets Separated Values 2021  (with subtables)
+# QVS21
 
 [comment]: # (lmake_readme cargo.toml data start)
-***version: 0.0.8  date: 2021-07-16 authors: Luciano Bestia***  
-**Modern replacement for csv for the year 2021**
+**Modern replacement for csv for the year 2021**  
+***version: 0.0.8  date: 2021-07-16 author: [dev_Bestia](https://bestia.dev) repository: [GitHub](https://github.com/LucianoBestia/QVS21)***  
 
 [comment]: # (lmake_readme cargo.toml data end)
 
@@ -31,7 +29,7 @@ The number `21` is the year of the second version: 2021.
 The second version has everything from the first version plus added support for SubTables.  
 It is not an update, but a more complex version.  
 For most projects it is enough to use the QVS2020. The code is smaller, faster, simpler.  
-Only if there is absolute need for SubTables the QVS2021 must be used.  
+Only if there is absolute need for SubTables the QVS21 must be used.  
 Except for SubTables these versions are 100% compatible.  
 Find the repository for QVS20 here: <https://github.com/LucianoBestia/QVS20>.
 
