@@ -3,14 +3,14 @@
 //!
 //! sQuare brackets Separated Values 2020  
 //!
-//! ***version: 0.0.8  date: 2020-07-16 authors: Luciano Bestia***  
+//! ***version: 0.0.8  date: 2020-07-16 authors: bestia.dev***  
 //! **Modern replacement for csv for the year 2020**
 //!
-//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-1574-green.svg)](https://github.com/LucianoBestia/QVS20/)
-//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-612-blue.svg)](https://github.com/LucianoBestia/QVS20/)
-//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-211-purple.svg)](https://github.com/LucianoBestia/QVS20/)
-//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-954-yellow.svg)](https://github.com/LucianoBestia/QVS20/)
-//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-812-orange.svg)](https://github.com/LucianoBestia/QVS20/)
+//! [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-1574-green.svg)](https://github.com/bestia-dev/QVS20/)
+//! [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-612-blue.svg)](https://github.com/bestia-dev/QVS20/)
+//! [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-211-purple.svg)](https://github.com/bestia-dev/QVS20/)
+//! [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-954-yellow.svg)](https://github.com/bestia-dev/QVS20/)
+//! [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-812-orange.svg)](https://github.com/bestia-dev/QVS20/)
 //!
 //!   
 //! My proposed format for import/export of 2 dimensional database tables.  

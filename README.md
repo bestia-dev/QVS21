@@ -4,20 +4,20 @@
 
 [comment]: # (lmake_readme cargo.toml data start)
 **Modern replacement for csv for the year 2021**  
-***version: 0.0.8  date: 2021-07-16 author: [dev_Bestia](https://bestia.dev) repository: [GitHub](https://github.com/LucianoBestia/QVS21)***  
+***version: 0.0.8  date: 2021-07-16 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/QVS21)***  
 
 [comment]: # (lmake_readme cargo.toml data end)
 
 [comment]: # (lmake_lines_of_code start)
-[![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-1574-green.svg)](https://github.com/LucianoBestia/QVS21/)
-[![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-612-blue.svg)](https://github.com/LucianoBestia/QVS21/)
-[![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-211-purple.svg)](https://github.com/LucianoBestia/QVS21/)
-[![Lines in examples](https://img.shields.io/badge/Lines_in_examples-954-yellow.svg)](https://github.com/LucianoBestia/QVS21/)
-[![Lines in tests](https://img.shields.io/badge/Lines_in_tests-812-orange.svg)](https://github.com/LucianoBestia/QVS21/)
+[![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-1574-green.svg)](https://github.com/bestia-dev/QVS21/)
+[![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-612-blue.svg)](https://github.com/bestia-dev/QVS21/)
+[![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-211-purple.svg)](https://github.com/bestia-dev/QVS21/)
+[![Lines in examples](https://img.shields.io/badge/Lines_in_examples-954-yellow.svg)](https://github.com/bestia-dev/QVS21/)
+[![Lines in tests](https://img.shields.io/badge/Lines_in_tests-812-orange.svg)](https://github.com/bestia-dev/QVS21/)
 
 [comment]: # (lmake_lines_of_code end)
   
-[![crates.io](https://img.shields.io/crates/v/qvs21.svg)](https://crates.io/crates/qvs21) [![Documentation](https://docs.rs/qvs21/badge.svg)](https://docs.rs/qvs21/) [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/qvs21.svg)](https://web.crev.dev/rust-reviews/crate/qvs21/) [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/qvs21/) [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/LucianoBestia/qvs21/blob/master/LICENSE)  
+[![crates.io](https://img.shields.io/crates/v/qvs21.svg)](https://crates.io/crates/qvs21) [![Documentation](https://docs.rs/qvs21/badge.svg)](https://docs.rs/qvs21/) [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/qvs21.svg)](https://web.crev.dev/rust-reviews/crate/qvs21/) [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/qvs21/) [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/qvs21/blob/master/LICENSE)  
 
 My proposed format for import/export of 2 dimensional database tables.  
   
@@ -31,7 +31,7 @@ It is not an update, but a more complex version.
 For most projects it is enough to use the QVS2020. The code is smaller, faster, simpler.  
 Only if there is absolute need for SubTables the QVS21 must be used.  
 Except for SubTables these versions are 100% compatible.  
-Find the repository for QVS20 here: <https://github.com/LucianoBestia/QVS20>.
+Find the repository for QVS20 here: <https://github.com/bestia-dev/QVS20>.
 
 ## Data type SubTable
   
