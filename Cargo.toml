@@ -2,6 +2,7 @@
 name = "qvs21"
 version = "0.0.8"
 authors = ["bestia.dev"]
+homepage = "https://bestia.dev"
 edition = "2018"
 description = "Modern replacement for csv for the year 2021 (with subtables)"
 repository = "https://github.com/bestia-dev/qvs21"
