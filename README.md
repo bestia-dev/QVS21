@@ -17,7 +17,12 @@
 
 [comment]: # (lmake_lines_of_code end)
   
-[![crates.io](https://img.shields.io/crates/v/qvs21.svg)](https://crates.io/crates/qvs21) [![Documentation](https://docs.rs/qvs21/badge.svg)](https://docs.rs/qvs21/) [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/qvs21.svg)](https://web.crev.dev/rust-reviews/crate/qvs21/) [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/qvs21/) [![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/qvs21/blob/master/LICENSE)  
+[![crates.io](https://img.shields.io/crates/v/qvs21.svg)](https://crates.io/crates/qvs21)
+[![Documentation](https://docs.rs/qvs21/badge.svg)](https://docs.rs/qvs21/)
+[![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/qvs21.svg)](https://web.crev.dev/rust-reviews/crate/qvs21/)
+[![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/qvs21/)
+[![Licence](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/qvs21/blob/master/LICENSE)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbestia-dev%2FQVS21&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 
 My proposed format for import/export of 2 dimensional database tables.  
   
