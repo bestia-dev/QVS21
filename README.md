@@ -8,6 +8,9 @@
 
 [comment]: # (lmake_readme cargo.toml data end)
 
+![status](https://img.shields.io/badge/work_in_progress-yellow) 
+![status](https://img.shields.io/badge/experimental-yellow) 
+
 [comment]: # (lmake_lines_of_code start)
 [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-1574-green.svg)](https://github.com/bestia-dev/QVS21/)
 [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-612-blue.svg)](https://github.com/bestia-dev/QVS21/)
