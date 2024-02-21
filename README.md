@@ -1,30 +1,30 @@
-[comment]: # (lmake_md_to_doc_comments segment start A)
+[//]: # (auto_md_to_doc_comments segment start A)
 
 # QVS21
 
-[comment]: # (lmake_readme cargo.toml data start)
+[//]: # (auto_readme cargo.toml data start)
 **Modern replacement for csv for the year 2021**  
 ***version: 0.0.8  date: 2021-07-16 author: [bestia.dev](https://bestia.dev) repository: [GitHub](https://github.com/bestia-dev/QVS21)***  
 
-[comment]: # (lmake_readme cargo.toml data end)
+[//]: # (auto_readme cargo.toml data end)
 
-![status](https://img.shields.io/badge/work_in_progress-yellow) 
+ ![work_in_progress](https://img.shields.io/badge/work_in_progress-yellow)
 
-[comment]: # (lmake_lines_of_code start)
+[//]: # (auto_lines_of_code start)
 [![Lines in Rust code](https://img.shields.io/badge/Lines_in_Rust-1574-green.svg)](https://github.com/bestia-dev/QVS21/)
 [![Lines in Doc comments](https://img.shields.io/badge/Lines_in_Doc_comments-612-blue.svg)](https://github.com/bestia-dev/QVS21/)
 [![Lines in Comments](https://img.shields.io/badge/Lines_in_comments-211-purple.svg)](https://github.com/bestia-dev/QVS21/)
 [![Lines in examples](https://img.shields.io/badge/Lines_in_examples-954-yellow.svg)](https://github.com/bestia-dev/QVS21/)
 [![Lines in tests](https://img.shields.io/badge/Lines_in_tests-812-orange.svg)](https://github.com/bestia-dev/QVS21/)
 
-[comment]: # (lmake_lines_of_code end)
+[//]: # (auto_lines_of_code end)
   
-[![crates.io](https://img.shields.io/crates/v/qvs21.svg)](https://crates.io/crates/qvs21)
-[![Documentation](https://docs.rs/qvs21/badge.svg)](https://docs.rs/qvs21/)
-[![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/qvs21.svg)](https://web.crev.dev/rust-reviews/crate/qvs21/)
-[![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/qvs21/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/qvs21/blob/master/LICENSE)
-![Hits](https://bestia.dev/webpage_hit_counter/get_svg_image/631298489.svg)
+ [![crates.io](https://img.shields.io/crates/v/qvs21.svg)](https://crates.io/crates/qvs21)
+ [![Documentation](https://docs.rs/qvs21/badge.svg)](https://docs.rs/qvs21/)
+ [![crev reviews](https://web.crev.dev/rust-reviews/badge/crev_count/qvs21.svg)](https://web.crev.dev/rust-reviews/crate/qvs21/)
+ [![Lib.rs](https://img.shields.io/badge/Lib.rs-rust-orange.svg)](https://lib.rs/crates/qvs21/)
+ [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bestia-dev/qvs21/blob/master/LICENSE)
+ ![QVS21](https://bestia.dev/webpage_hit_counter/get_svg_image/631298489.svg)
 
 Hashtags: #rustlang #tutorial
 My projects on Github are more like a tutorial than a finished product: [bestia-dev tutorials](https://github.com/bestia-dev/tutorials_rust_wasm).
@@ -136,7 +136,7 @@ So I can drink a free beer for your health :-)
 [//bestiadev.substack.com](https://bestiadev.substack.com)  
 [//youtube.com/@bestia-dev-tutorials](https://youtube.com/@bestia-dev-tutorials)  
 
-[comment]: # (lmake_md_to_doc_comments segment end A)
+[//]: # (auto_md_to_doc_comments segment end A)
 
 ## Read also the separate XXX.md files
 
