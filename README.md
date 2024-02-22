@@ -120,6 +120,15 @@ For other column, the field is empty [].
 I want the file extension to be specific for the version of the standard.  
 File extension and standard name are the same: `*.QVS21`  
 
+## Read also the separate XXX.md files
+
+I use the same README.md file for GitHub, Crates.io and docs.rs.  
+So I cannot include the specific information that are not common to all 3 purposes. For that reason I have separate XXX.md files:  
+
+- DEVELOPMENT.md - information and instruction for development
+- CHANGELOG.md - what changed between versions
+- TODO.md - reminder of what is in plan to do
+
 ## Open-source and free as a beer
 
 My open-source projects are free as a beer (MIT license).  
@@ -133,12 +142,3 @@ So I can drink a free beer for your health :-)
 [//github.com/bestia-dev](https://github.com/bestia-dev)  
 [//bestiadev.substack.com](https://bestiadev.substack.com)  
 [//youtube.com/@bestia-dev-tutorials](https://youtube.com/@bestia-dev-tutorials)  
-
-## Read also the separate XXX.md files
-
-I use the same README.md file for GitHub, Crates.io and docs.rs.  
-So I cannot include the specific information that are not common to all 3 purposes. For that reason I have separate XXX.md files:  
-
-- DEVELOPMENT.md - information and instruction for development
-- CHANGELOG.md - what changed between versions
-- TODO.md - reminder of what is in plan to do
