@@ -4,7 +4,7 @@
 
 Use this examples to learn how to use the qvs21 format and library.  
 
-[comment]: # (lmake_md_to_doc_comments segment start A)
+[//]: # (auto_md_to_doc_comments segment start A)
 
 ## cargo make - for non-trivial or multi-line commands
 
